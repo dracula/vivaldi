@@ -2,7 +2,7 @@
 
 > A dark theme for [Vivaldi](https://vivaldi.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/vivaldi.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
