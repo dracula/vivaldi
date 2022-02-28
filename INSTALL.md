@@ -1,13 +1,11 @@
 ### [Vivaldi](https://vivaldi.com)
 
-#### Installing using Vivaldi.net account
+#### Installing using Vivaldi.net
 
-1. Go to the [Dracula Official theme page](https://themes.vivaldi.net/themes/zwnlM3eJO0d/versions/3)
-2. Log in with your Vivaldi.net account
-   - If you don't have an account see `Install using Git` instructions below
-3. Click `Download Theme`
-   - A Theme Preview popup will appear
-4. Click `Install`
+1. Go to the [Dracula Official theme page](https://themes.vivaldi.net/themes/zwnlM3eJO0d)
+2. Click `Download Theme`
+   - This will say `Update Theme` if you have installed a previous version
+3. Click `Install`
 
 #### Install using Git
 
